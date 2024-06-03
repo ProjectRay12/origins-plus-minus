@@ -1,6 +1,0 @@
-{
-	"type":"origins:inventory",
-	"title":"container.wanderer.name",
-	"key":"key.origins.primary_active",
-	"drop_on_death":false
-}

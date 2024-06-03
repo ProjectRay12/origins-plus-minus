@@ -1,5 +1,0 @@
-{
-	"type":"origins:shader",
-	"toggleable":false,
-	"shader":"minecraft:shaders/post/desaturate.json"
-}

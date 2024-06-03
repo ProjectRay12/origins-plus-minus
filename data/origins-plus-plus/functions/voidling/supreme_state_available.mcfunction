@@ -1,1 +1,0 @@
-title @s actionbar [{"text":"-<","color":"dark_purple"},{"translate":"origins-plus-plus.voidling.supreme_message","color":"light_purple"},{"text":">-","color":"dark_purple"}]

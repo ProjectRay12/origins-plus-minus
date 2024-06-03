@@ -70,7 +70,7 @@
 		"type":"origins:action_on_land",
 		"entity_action":{
 			"type":"origins:clear_effect",
-			"effect":"minecraft:levitation"
+			"effect":"minecraft:slow_falling"
 		}
 	},
 	"respawn":{
